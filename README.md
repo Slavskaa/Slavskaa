@@ -1,4 +1,4 @@
--  Hi, I’m @Slavskaa, a young programmer 
+-  Hi, I’m Giovanna, a young programmer 
 -  I’m interested in front-end, mostly. I like to practice by programming personal websites or exercices
 -  I’m currently learning nothing specific, but I'm looking fowarward on learning C# and Python
 
